@@ -1,0 +1,7 @@
+rdkit
+openbabel
+pubchempy
+pandas
+numpy
+torch
+autodock-vina
