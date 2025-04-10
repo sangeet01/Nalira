@@ -97,3 +97,6 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ## PS
 
 This is a work in progress. Expect bugs and incomplete functionality in this early release. Contributions, bug reports, and feature requests are welcome!
+
+## PSS
+Sangeet's the name, a daft undergrad splashing through chemistry and code like a toddler—my titrations are a mess, and I've used my mouth to pipette.
