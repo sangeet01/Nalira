@@ -14,7 +14,7 @@ Nalira is a hybrid AI pipeline for optimizing natural products and predicting re
 1. Clone the repository:
 
 ```
-git clone https://github.com/Sangeet01/Nalira.git
+git clone https://github.com/sangeet-sangit/Nalira.git
 cd Nalira
 ```
 
